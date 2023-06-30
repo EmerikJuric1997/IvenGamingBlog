@@ -1,6 +1,6 @@
 Blog web application for Iven Jurić using Vue and Firebase.🖥️
 <p align="center">
-<img src="https://i.ibb.co/rFqhQ53/ivengaminglogodarktext.png" />
+<img height="100" width="100" src="https://i.ibb.co/rFqhQ53/ivengaminglogodarktext.png" />
 </p>
 Mobile responsive, minmalistic UI and  great UX 📱🖥️
 
