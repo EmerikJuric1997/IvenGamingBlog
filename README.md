@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a class="text-deocration:none; color: black; font-size: 25px; font-weight: 800" href="https://ivengamingblog.netlify.app/">LIVE PAGE</a>
+   <a style="text-deocration:none; color: black; font-size: 25px; font-weight: 800" href="https://ivengamingblog.netlify.app/">LIVE PAGE</a>
 </p>
 <p align="center">Blog web application for Iven Jurić using Vue and Firebase.🖥️</p>
 
