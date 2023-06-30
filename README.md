@@ -1,24 +1,21 @@
-# ivengamingblog
+Blog web application for Iven Jurić using Vue and Firebase.🖥️
+<p align="center">
+<img src="https://i.ibb.co/rFqhQ53/ivengaminglogodarktext.png" />
+</p>
+Mobile responsive, minmalistic UI and  great UX 📱🖥️
 
-## Project setup
-```
-npm install
-```
+For web preview of the app run:
+1. npm install
+2. npm run serve
+   
+For production run:
+3. npm run build
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p align="center">
+<img src="https://github.com/EmerikJuric1997/Moncar/assets/106120183/14654906-b4ca-442b-b7e5-8e497abea864" />
+</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Project for Mono software
+<p align="center">
+<img src="https://github.com/EmerikJuric1997/Moncar/assets/106120183/3b975df8-75a5-4cc9-aaf8-380f7b1b9d2f" />
+</p>
