@@ -1,4 +1,4 @@
-Blog web application for Iven Jurić using Vue and Firebase.🖥️
+<p align="center">Blog web application for Iven Jurić using Vue and Firebase.🖥️</p>
 <p align="center">
 <img height="300" width="300" src="https://i.ibb.co/rFqhQ53/ivengaminglogodarktext.png" />
 </p>
