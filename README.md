@@ -1,7 +1,12 @@
-<p align="center">Blog web application for Iven Jurić using Vue and Firebase.🖥️</p>
 <p align="center">
 <img height="300" width="300" src="https://i.ibb.co/rFqhQ53/ivengaminglogodarktext.png" />
 </p>
+
+<p align="center">
+   <a class="text-deocration:none; color: black; font-size: 25px; font-weight: 800" href="https://ivengamingblog.netlify.app/">LIVE PAGE</a>
+</p>
+<p align="center">Blog web application for Iven Jurić using Vue and Firebase.🖥️</p>
+
 Mobile responsive, minmalistic UI and  great UX 📱🖥️
 
 For web preview of the app run:
@@ -12,10 +17,13 @@ For production run:
 3. npm run build
 
 <p align="center">
-<img src="https://github.com/EmerikJuric1997/Moncar/assets/106120183/14654906-b4ca-442b-b7e5-8e497abea864" />
+<img src="https://i.ibb.co/MCdCLv3/1.png" />
 </p>
 
-Project for Mono software
 <p align="center">
-<img src="https://github.com/EmerikJuric1997/Moncar/assets/106120183/3b975df8-75a5-4cc9-aaf8-380f7b1b9d2f" />
+<img src="https://i.ibb.co/TvGT5bW/2.png" />
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/7Yf52t0/3.png" />
 </p>
